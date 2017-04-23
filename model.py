@@ -1,8 +1,7 @@
 class IContainer(object):
     pass
     # Start of user code -> properties/constructors for IContainer class(interface)
-		def __init__(self):
-			pass
+
     # End of user code
     # Start of user code -> methods for IContainer class(interface)
 
