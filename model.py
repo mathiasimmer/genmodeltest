@@ -3,6 +3,10 @@ class IContainer(object):
     # Start of user code -> properties/constructors for IContainer class(interface)
 
     # End of user code
+    def lulz(self):
+        # Start of user code protected zone for lulz function body
+        raise NotImplementedError
+        # End of user code	
     # Start of user code -> methods for IContainer class(interface)
 
     # End of user code
