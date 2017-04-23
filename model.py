@@ -4,6 +4,10 @@ class IContainer(object):
 		def __init__(self):
 			pass
     # End of user code
+    def lulz(self):
+        # Start of user code protected zone for lulz function body
+        raise NotImplementedError
+        # End of user code	
     # Start of user code -> methods for IContainer class(interface)
 
     # End of user code
